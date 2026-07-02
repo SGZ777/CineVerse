@@ -5,7 +5,7 @@ import TopRatedMovies from "@/components/TopRatedMovies";
 export default async function Home() {
 
   return (
-    <main className="">
+    <main className="bg-gray">
       <div>
         <Header/>
         <PopularMovies/>
